@@ -1,7 +1,9 @@
 # Spinning Light Wand Adaptation
 The Spinning Light Wand Adaptation comprises instructions and files to adapt a commercially available Spinning Light Wand toy for use with an assistive switch. The toy is modified so that it has a 3.5 mm jack in place of the button. When a standard assistive switch with a 3.5 mm mono jack is attached and activated, the toy will activate. The toy is mounted into a 3D printed base that keeps the toy upright and houses the input jack. 
 
-![Device Name](Photos/Spinning_Light_Wand_Switch_Adaptation.jpg)
+This repository is still a work-in-progress and the final PDF documentation has not been created yet. 
+
+![Device Name](Photos/Spinning_Light_Wand_Switch_Adaptation.jpeg)
 
 ## More info at
 - Makers Making Change Project Page: https://makersmakingchange.com/project/spinning-light-wand-toy-adaptation/
@@ -21,7 +23,7 @@ Print the components
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
 
-### 3. Assemble the ...
+### 3. Assembly
 
 Reference the [Assembly Guide](/Documentation/Spinning_Light_Wand_Adaptation_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
 
