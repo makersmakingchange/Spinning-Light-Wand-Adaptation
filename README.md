@@ -12,7 +12,7 @@ The Spinning Light Wand Adaptation comprises instructions and files to adapt a c
 
 ### 1. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Spinning_Light_Wand_BOM_v1.0/csv) lists all of the parts and components required to adapt the Spinning Light Wand. The toy is typically available at Walmart stores.
+The [Bill of Materials](/Documentation/Spinning_Light_Wand_BOM_v1.0.csv) lists all of the parts and components required to adapt the Spinning Light Wand. The toy is typically available at Walmart stores.
 
 
 ### 2. Print the 3D Printable components
