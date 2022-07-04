@@ -1,7 +1,8 @@
 # Spinning Light Wand Adaptation
 The Spinning Light Wand Adaptation comprises instructions and files to adapt a commercially available Spinning Light Wand toy for use with an assistive switch. The toy is modified so that it has a 3.5 mm jack in place of the button. When a standard assistive switch with a 3.5 mm mono jack is attached and activated, the toy will activate. The toy is mounted into a 3D printed base that keeps the toy upright and houses the input jack. 
 
-![Device Name](Photos/Spinning_Light_Wand_Switch_Adaptation.jpeg)
+![image](https://user-images.githubusercontent.com/98916090/177164270-c39409d1-ee4e-4f18-9503-54d4df4abcbd.png)
+
 
 ## More info at
 - Makers Making Change Project Page: https://makersmakingchange.com/project/spinning-light-wand-toy-adaptation/
