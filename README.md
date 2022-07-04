@@ -24,7 +24,7 @@ All of the files and individual print files can be in the [Build_Files](Build_Fi
 
 ### 3. Assembly
 
-Reference the [Assembly Guide](/Documentation/Spinning_Light_Wand_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+Reference the [Assembly Guide v1.0](/Documentation/Spinning_Light_Wand_Assembly_Guide_V1.0.pdf) or [Assembly Guide v1.1](/Documentation/Spinning_Light_Wand_Assembly_Guide_V1.1.pdf) for the tools and steps required to build each portion.
 
 ## Files
 ### Documentation
