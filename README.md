@@ -20,7 +20,7 @@ The [Bill of Materials](/Documentation/Working_Documents/Spinning_Light_Wand_BOM
 
 Print the components 
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+All of the files and individual print files can be in the [/Build_Files](Build_Files) folder.
 
 ### 3. Assembly
 
