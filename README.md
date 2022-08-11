@@ -30,12 +30,12 @@ Reference the [Assembly Guide](/Documentation/Spinning_Light_Wand_Assembly_Guide
 | Document             | Version | Link |
 |----------------------|---------|------|
 | Design Rationale     | 1.0     | [Spinning_Light_WandDesign_Rationale](/Documentation/Spinning_Light_Wand_Design_Rationale_v1.0.pdf)     |
-| Bill of Materials    | 1.0     | [Spinning_Light_Wand_Bill_of_Materials](/Documentation/Spinning_Light_Wand_BOM_v1.0.csv)     |
-| 3D Printing Guide    | 1.0     | [Spinning_Light_Wand_3D_Printing_Guide](/Documentation/Spinning_Light_Wand_3D_Printing_Guide_v1.0.pdf)     |
-| Assembly Guide       | 1.0     | [Spinning_Light_Wand_Assembly_Guide](/Documentation/Spinning_Light_Wand_Assembly_Guide_v1.0.pdf)     |
-| Maker Checklist      | 1.0     | [Spinning_Light_Wand_Maker_Checklist](/Documentation/Spinning_Light_Wand_Checklist_v1.0.pdf)     |
-| User Guide           | 1.0     | [Spinning_Light_Wand_User_Guide](/Documentation/Spinning_Light_Wand_Quick_Guide_v1.0.pdf)    |
-| Changelog            | 1.0     | [Spinning_Light_Wand_Changelog](/Documentation/Spinning_Light_Wand_Changelog_v1.0.pdf)     |
+| Bill of Materials    | 1.0     | [Spinning_Light_Wand_Bill_of_Materials](/Documentation/Spinning_Light_Wand_BOM_v1.0.csv)                |
+| 3D Printing Guide    | 1.0     | [Spinning_Light_Wand_3D_Printing_Guide](/Documentation/Spinning_Light_Wand_3D_Printing_Guide_v1.0.pdf)  |
+| Assembly Guide       | 1.0     | [Spinning_Light_Wand_Assembly_Guide](/Documentation/Spinning_Light_Wand_Assembly_Guide_v1.0.pdf)        |
+| Maker Checklist      | 1.0     | [Spinning_Light_Wand_Maker_Checklist](/Documentation/Spinning_Light_Wand_Checklist_v1.0.pdf)            |
+| User Guide           | 1.0     | [Spinning_Light_Wand_User_Guide](/Documentation/Spinning_Light_Wand_Quick_Guide_v1.0.pdf)               |
+| Changelog            | 1.0     | [Spinning_Light_Wand_Changelog](/Documentation/Spinning_Light_Wand_Changelog_v1.0.pdf)                  |
 
 ### Design Files
 [CAD Files](/Design_Files)
@@ -49,7 +49,6 @@ This adaptation was designed by Mimi Xia of the [Makers Making Change Vancouver 
 
 
 ## License
-
 Everything needed or used to design, make, test, or prepare the Spinning Light Wand Adaptation is licensed under the CERN 2.0 Permissive license https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2 (CERN-OHL-P) .
 
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Spinning Light Wand Adaptation are published under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license https://creativecommons.org/licenses/by-nc-sa/4.0/ (CC BY-NC-SA 4.0)
