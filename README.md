@@ -1,7 +1,8 @@
 # Spinning Light Wand Adaptation
 The Spinning Light Wand Adaptation comprises instructions and files to adapt a commercially available Spinning Light Wand toy for use with an assistive switch. The toy is modified so that it has a 3.5 mm jack in place of the button. When a standard assistive switch with a 3.5 mm mono jack is attached and activated, the toy will activate. The toy is mounted into a 3D printed base that keeps the toy upright and houses the input jack. 
 
-![Device Name](Photos/Spinning_Light_Wand_Switch_Adaptation.jpeg)
+![image](https://user-images.githubusercontent.com/98916090/177164270-c39409d1-ee4e-4f18-9503-54d4df4abcbd.png)
+
 
 ## More info at
 - Makers Making Change Project Page: https://makersmakingchange.com/project/spinning-light-wand-toy-adaptation/
@@ -12,39 +13,48 @@ The Spinning Light Wand Adaptation comprises instructions and files to adapt a c
 
 ### 1. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Spinning_Light_Wand_BOM_V1.0.csv) lists all of the parts and components required to adapt the Spinning Light Wand. The toy is typically available at Walmart stores.
+The [Bill of Materials](/Documentation/Working_Documents/Spinning_Light_Wand_BOM_V1.1.xlsx) lists all of the parts and components required to adapt the Spinning Light Wand. The toy is typically available at Walmart stores.
 
 
 ### 2. Print the 3D Printable components
 
 Print the components 
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+All of the files and individual print files can be in the [Build_Files](Build_Files) folder.
 
 ### 3. Assembly
 
-Reference the [Assembly Guide](/Documentation/Spinning_Light_Wand_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+Reference the [Assembly Guide v1.0](/Documentation/Spinning_Light_Wand_Assembly_Guide_V1.0.pdf) or [Assembly Guide v1.1](/Documentation/Spinning_Light_Wand_Assembly_Guide_V1.1.pdf) for the tools and steps required to build each portion.
 
 ## Files
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [Spinning_Light_WandDesign_Rationale](/Documentation/Spinning_Light_Wand_Design_Rationale_v1.0.pdf)     |
-| Bill of Materials    | 1.0     | [Spinning_Light_Wand_Bill_of_Materials](/Documentation/Spinning_Light_Wand_BOM_v1.0.csv)                |
-| 3D Printing Guide    | 1.0     | [Spinning_Light_Wand_3D_Printing_Guide](/Documentation/Spinning_Light_Wand_3D_Printing_Guide_v1.0.pdf)  |
-| Assembly Guide       | 1.0     | [Spinning_Light_Wand_Assembly_Guide](/Documentation/Spinning_Light_Wand_Assembly_Guide_v1.0.pdf)        |
-| Maker Checklist      | 1.0     | [Spinning_Light_Wand_Maker_Checklist](/Documentation/Spinning_Light_Wand_Checklist_v1.0.pdf)            |
-| User Guide           | 1.0     | [Spinning_Light_Wand_User_Guide](/Documentation/Spinning_Light_Wand_Quick_Guide_v1.0.pdf)               |
-| Changelog            | 1.0     | [Spinning_Light_Wand_Changelog](/Documentation/Spinning_Light_Wand_Changelog_v1.0.pdf)                  |
+| Design Rationale     | 1.1     | [Spinning_Light_WandDesign_Rationale](/Documentation/Spinning_Light_Wand_Design_Rationale.pdf)     |
+| Bill of Materials    | 1.1     | [Spinning_Light_Wand_Bill_of_Materials](/Documentation/Working_Documents/Spinning_Light_Wand_BOM_V1.1.xlsx)     |
+| 3D Printing Guide    | 1.1     | [Spinning_Light_Wand_3D_Printing_Guide](/Documentation/Spinning_Light_Wand_3D_Printing_Guide.pdf)     |
+| Assembly Guide       | 1.0     | [Spinning_Light_Wand_Assembly_Guide](/Documentation/Spinning_Light_Wand_Assembly_Guide_V1.0.pdf)     |
+| Assembly Guide       | 1.1     | [Spinning_Light_Wand_Assembly_Guide](/Documentation/Spinning_Light_Wand_Assembly_Guide_V1.1.pdf)     |
+| Maker Checklist      | 1.1     | [Spinning_Light_Wand_Maker_Checklist](/Documentation/Spinning_Light_Wand_Checklist.pdf)     |
+| User Guide           | 1.0     | [Spinning_Light_Wand_User_Guide](/Documentation/Spinning_Light_Wand_User_Guide_V1.0.pdf)    |
+| User Guide           | 1.1     | [Spinning_Light_Wand_User_Guide](/Documentation/Spinning_Light_Wand_User_Guide_V1.1.pdf)    |
+| Changelog            | 1.1     | [Spinning_Light_Wand_Changelog](/Documentation/Spinning_Light_Wand_Changelog.pdf)     |
+
 
 ### Design Files
-[CAD Files](/Design_Files)
+- [CAD Files](/Design_Files)
 
 ### Build Files
- - [3D Printing Files](/Build_Files/3D_Printing)
+ - [3D Printing Files](/Build_Files)
 
 ## Attribution
-This adaptation was designed by Mimi Xia of the [Makers Making Change Vancouver Chapter](https://vanhack.ca/wp/makers-making-change-vancouver-chapter/). Neil Squire / Makers Making Change assisted with the creation of the documentation.
+This adaptation was designed by Mimi Xia of the [Makers Making Change Vancouver Chapter](https://vanhack.ca/wp/makers-making-change-vancouver-chapter/). 
+
+3D Printed Wand Base v1.0 designed by Mimi Xia.
+
+3D Printed Wand Base v1.1 designed by Jake McIvor – Makers Making Change.
+
+Neil Squire / Makers Making Change assisted with the creation of the documentation.
 
 
 
