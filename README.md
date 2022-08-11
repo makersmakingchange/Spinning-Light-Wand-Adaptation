@@ -40,6 +40,7 @@ Reference the [Assembly Guide v1.0](/Documentation/Spinning_Light_Wand_Assembly_
 | User Guide           | 1.1     | [Spinning_Light_Wand_User_Guide](/Documentation/Spinning_Light_Wand_User_Guide_V1.1.pdf)    |
 | Changelog            | 1.1     | [Spinning_Light_Wand_Changelog](/Documentation/Spinning_Light_Wand_Changelog.pdf)     |
 
+
 ### Design Files
 - [CAD Files](/Design_Files)
 
@@ -58,7 +59,6 @@ Neil Squire / Makers Making Change assisted with the creation of the documentati
 
 
 ## License
-
 Everything needed or used to design, make, test, or prepare the Spinning Light Wand Adaptation is licensed under the CERN 2.0 Permissive license https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2 (CERN-OHL-P) .
 
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Spinning Light Wand Adaptation are published under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license https://creativecommons.org/licenses/by-nc-sa/4.0/ (CC BY-NC-SA 4.0)
