@@ -27,8 +27,8 @@ Reference the [Assembly Guide](/Documentation/Spinning_Light_Wand_Assembly_Guide
 
 ## Files
 ### Documentation
-| Document             | Version | Link |
-|----------------------|---------|------|
+| Document             | Version | Link                                                                                                    |
+|----------------------|---------|---------------------------------------------------------------------------------------------------------|
 | Design Rationale     | 1.0     | [Spinning_Light_WandDesign_Rationale](/Documentation/Spinning_Light_Wand_Design_Rationale_v1.0.pdf)     |
 | Bill of Materials    | 1.0     | [Spinning_Light_Wand_Bill_of_Materials](/Documentation/Spinning_Light_Wand_BOM_v1.0.csv)                |
 | 3D Printing Guide    | 1.0     | [Spinning_Light_Wand_3D_Printing_Guide](/Documentation/Spinning_Light_Wand_3D_Printing_Guide_v1.0.pdf)  |
