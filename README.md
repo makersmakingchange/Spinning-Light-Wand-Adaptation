@@ -1,7 +1,7 @@
 # Spinning Light Wand Adaptation
 The Spinning Light Wand Adaptation comprises instructions and files to adapt a commercially available Spinning Light Wand toy for use with an assistive switch. The toy is modified so that it has a 3.5 mm jack in place of the button. When a standard assistive switch with a 3.5 mm mono jack is attached and activated, the toy will activate. The toy is mounted into a 3D printed base that keeps the toy upright and houses the input jack. 
 
-![image](https://user-images.githubusercontent.com/98916090/177164270-c39409d1-ee4e-4f18-9503-54d4df4abcbd.png)
+![A switch-adapted Spinning Light Wand mounted in a blue 3d-printed base.](https://user-images.githubusercontent.com/98916090/177164270-c39409d1-ee4e-4f18-9503-54d4df4abcbd.png)
 
 
 ## More info at
@@ -17,13 +17,9 @@ The [Bill of Materials](/Documentation/Working_Documents/Spinning_Light_Wand_BOM
 
 
 ### 2. Print the 3D Printable components
-
-Print the components 
-
-All of the files and individual print files can be in the [Build_Files](Build_Files) folder.
+Print the components. All of the files and individual print files can be in the [Build_Files](Build_Files) folder.
 
 ### 3. Assembly
-
 Reference the [Assembly Guide v1.0](/Documentation/Spinning_Light_Wand_Assembly_Guide_V1.0.pdf) or [Assembly Guide v1.1](/Documentation/Spinning_Light_Wand_Assembly_Guide_V1.1.pdf) for the tools and steps required to build each portion.
 
 ## Files
@@ -63,7 +59,9 @@ Everything needed or used to design, make, test, or prepare the Spinning Light W
 
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Spinning Light Wand Adaptation are published under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license https://creativecommons.org/licenses/by-nc-sa/4.0/ (CC BY-NC-SA 4.0)
 
+----
 
+<!-- ABOUT MMC START -->
 ## About Us
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -80,3 +78,4 @@ We are committed to cultivating a network of volunteer makers who support people
 ## Contact Us
 
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page]( https://www.makersmakingchange.com/project), [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
